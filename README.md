@@ -37,6 +37,15 @@ Listeners use short interjections, so-called backchannels, to signify attention 
 |  Backchannel Detection and Agreement Estimation from Video with Transformer Networks  |   Computer Vision, Multimodality  |  [Link](https://arxiv.org/pdf/2306.01656.pdf) |
 |   Harmonizing Feature Attributions Across Deep Learning Architectures: Enhancing Interpretability and Consistency  |   Computer Vision, Deep Learning  |  [Link](https://link.springer.com/chapter/10.1007/978-3-031-42608-7_8) |
 
+### Featured Projects
+|   Projects    |   Tech Stack  |
+|---------------|---------------|
+|   [Back channel Detection](https://github.com/gowtham07/Backchannel_detection)    |   Python, Transformers, Pytorch   |  
+|   [Hotel Recommender](https://github.com/gowtham07/HotelRecommendation)    |   Python, Pytorch ,Cohere Multi-Language Model  | 
+|   [Kaggle Hubmap semantic segmentation](https://github.com/gowtham07/hubmap_kidney_semantic_segmentation)    |   Python, Pytorch , Deep Neural Networks  |
+ 
+ 
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham07&layout=compact&theme=radical)
 
