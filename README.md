@@ -30,6 +30,22 @@ Enhancing the interpretability and consistency of machine learning models is cri
 
 Listeners use short interjections, so-called backchannels, to signify attention or express agreement. The automatic analysis of this behavior is of key importance for human conversation analysis and interactive conversational agents. Current state-of-the-art approaches for backchannel analysis from visual behavior make use of two types of features: features based on body pose and features based on facial behavior. At the same time, transformer neural networks have been established as an effective means to fuse input from different data sources, but they have not yet been applied to backchannel analysis. In this work, we conduct a comprehensive evaluation of multi-modal transformer architectures for automatic backchannel analysis based on pose and facial information. We address both the detection of backchannels as well as the task of estimating the agreement expressed in a backchannel. In evaluations on the MultiMediate’22 backchannel detection challenge, we reach 66.4% accuracy with a one-layer transformer architecture, outperforming the previous state of the art. With a two-layer transformer architecture, we furthermore set a new state of the art (0.0604 MSE) on the task of estimating the amount of agreement expressed in a backchannel.
 
+- [Backdoor Attack against NLP models with Robustness-Aware Perturbation defense](https://arxiv.org/pdf/2204.05758.pdf)
+
+  Backdoor attack intends to embed hidden backdoor
+into deep neural networks (DNNs), such that the
+attacked model performs well on benign samples,
+whereas its prediction will be maliciously changed
+if the hidden backdoor is activated by the attacker
+defined trigger. This threat could happen when the
+training process is not fully controlled, such as training on third-party data-sets or adopting third-party
+models. There has been a lot of research and different methods to defend such type of backdoor attacks,
+one being robustness-aware perturbation-based defense method. This method mainly exploits big gap
+of robustness between poisoned and clean samples.
+In our work, we break this defense by controlling the
+robustness gap between poisoned and clean samples
+using adversarial training step
+
 <!---
 ### Publications
 |   Publication | Domain  |   Link  |
