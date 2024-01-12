@@ -60,6 +60,9 @@ using adversarial training step
 |   [Hotel Recommender](https://github.com/gowtham07/HotelRecommendation)    |   Python, Pytorch ,Cohere Multi-Language Model  | 
 |   [Kaggle Hubmap semantic segmentation](https://github.com/gowtham07/hubmap_kidney_semantic_segmentation)    |   Python, Pytorch , Deep Neural Networks  |
 |   [Kaggle Disaster Tweets](https://github.com/gowtham07/kaggle_Disaster_Tweets)    |   Python, Pytorch , BERT, Pandas, Data cleaning, Data Processing  |
+
+### Blogs
+|   [Calibration Before Few Short Learning of LLM's ](https://gowtham07.github.io/)    |   Python, Pytorch , LLM |  
  
  
 
