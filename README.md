@@ -62,7 +62,8 @@ using adversarial training step
 |   [Kaggle Disaster Tweets](https://github.com/gowtham07/kaggle_Disaster_Tweets)    |   Python, Pytorch , BERT, Pandas, Data cleaning, Data Processing  |
 
 ### Blogs
-|   [Calibration Before Few Short Learning of LLM's ](https://gowtham07.github.io/)    |   Python, Pytorch , LLM |  
+|   Projects    |  
+|   [Calibration Before Few Short Learning of LLM's ](https://gowtham07.github.io/)   |
  
  
 
