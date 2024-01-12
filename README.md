@@ -59,6 +59,7 @@ using adversarial training step
 |   [Back channel Detection](https://github.com/gowtham07/Backchannel_detection)    |   Python, Transformers, Pytorch   |  
 |   [Hotel Recommender](https://github.com/gowtham07/HotelRecommendation)    |   Python, Pytorch ,Cohere Multi-Language Model  | 
 |   [Kaggle Hubmap semantic segmentation](https://github.com/gowtham07/hubmap_kidney_semantic_segmentation)    |   Python, Pytorch , Deep Neural Networks  |
+|   [Kaggle Disaster Tweets](https://github.com/gowtham07/kaggle_Disaster_Tweets)    |   Python, Pytorch , BERT, Pandas, Data cleaning, Data Processing  |
  
  
 
