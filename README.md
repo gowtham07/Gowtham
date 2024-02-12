@@ -2,7 +2,8 @@
 <h3 align="center">I am very passionate about utilizing Machine learning to build products and also involve in deploying those complex models to bring value</h3>
 
 - 🔭 I’m currently working as **Machine learning Working student at DFKI on Explainable AI
-- 🔭 Exploring LLM's to build secure RAG's( amazon bedrock, langchain, guardrails)
+- 🔭 Currently Exploring LLM's to build secure RAG's( amazon bedrock, langchain, guardrails)
+- 🔭 Currently Exploring various diffusers for image inpainting
 
 
 
