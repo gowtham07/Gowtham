@@ -78,3 +78,4 @@ using adversarial training step. [Presentation](https://docs.google.com/presenta
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham07&layout=compact&theme=radical)
 
 <!--- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham07&show_icons=true&theme=radical) --->
+[![Profile Views](https://komarev.com/ghpvc/?username=gowtham07&color=blue&style=plastic)](https://github.com/gowtham07)
