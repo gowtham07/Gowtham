@@ -47,6 +47,7 @@ of robustness between poisoned and clean samples.
 In our work, we break this defense by controlling the
 robustness gap between poisoned and clean samples
 using adversarial training step
+[Presentation](https://docs.google.com/presentation/d/1iHP7NidwKsi0TZLJURtgGmWZuXAaQDvH/edit?usp=drive_link&ouid=110916393954834833754&rtpof=true&sd=true)
 
 <!---
 ### Publications
