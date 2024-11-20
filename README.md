@@ -2,7 +2,7 @@
 <h3 align="center">I am very passionate about utilizing Machine learning to build products and also involve in deploying those complex models to bring value</h3>
 
 - 🔭 Currently working as **AI Research Engineer @nec labs**
-- 🔭 Former **AI Intern student @AUDI**
+- 🔭 Former **AI Intern @AUDI**
 - 🔭 Worked as **Machine learning Working student @DFKI**
 - 🔭 Currently Exploring LLM's to build secure RAG's( amazon bedrock, langchain, guardrails)
 - 🔭 Currently Exploring various diffusers for image inpainting
