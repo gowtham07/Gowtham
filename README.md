@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
 <h3 align="center">I am very passionate about utilizing Machine learning to build products and also involve in deploying those complex models to bring value</h3>
 
-- 🔭 I’m currently working as **AI Intern student at AUDI**
+- 🔭 Currently working as **AI Research Engineer @nec labs**
+- 🔭 Former **AI Intern student at AUDI**
 - 🔭 Worked as **Machine learning Working student at DFKI on Explainable AI**
 - 🔭 Currently Exploring LLM's to build secure RAG's( amazon bedrock, langchain, guardrails)
 - 🔭 Currently Exploring various diffusers for image inpainting
